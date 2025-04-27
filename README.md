@@ -41,7 +41,5 @@ It receives streaming binary packets, parses them, handles missing packet sequen
 
 1. Mention the IP address of the server running pc(port is considerd as 3000)
 2. Click on "Stream All Packets"
-
-3.If any packets are missing message will be displayed and click on "Resend Packet"
-
-4.Output will be saved in json file in application path.
+3. If any packets are missing message will be displayed and click on "Resend Packet"
+4. Output will be saved in json file in application path.
